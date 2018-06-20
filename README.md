@@ -9,9 +9,9 @@ Authors: Zhen Gao (zhen.gao@utsa.edu ) and Jianhua Ruan (jianhua.ruan@utsa.edu)
 **Results**: Here, we propose a novel algorithm based on the so-called multiple-instance learning (MIL) paradigm. MIL breaks each DNA sequence into multiple overlapping subsequences and models each subsequence separately, therefore implicitly takes into consideration binding site locations, resulting in both higher accuracy and better interpretability of the models. The result from both in vivo and in vitro TF-DNA interaction data show that our approach significantly outperforms conventional single-instance learning based algorithms. Importantly, the models learned from in vitro data using our approach can predict in vivo binding with very good accuracy. In addition, the location information obtained by our method provides additional insight for motif finding results from ChIP-Seq data. Finally, our approach can be easily combined with other state-of-the-art TF-DNA interaction modeling methods.
 
 
-### [Supplementary figures and tables]()
+### [Supplementary figures and tables](https://github.com/gozhen/MPDIMIL/blob/master/Suppl_Figs_Tables.pdf)
 
-### [HOMER motif finding results]()
+### [HOMER motif finding results](https://github.com/gozhen/MPDIMIL/tree/master/HOMER%20motif%20finding%20results)
 
 
 
